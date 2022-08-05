@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on SSAFY
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEJIN012&show_icons=true&theme=radical)
 <!--
 **YEJIN012/YEJIN012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
