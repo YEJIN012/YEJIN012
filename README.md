@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on SSAFY
 <!--
 **YEJIN012/YEJIN012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
